@@ -45,3 +45,31 @@
     geschreeuwd hebben).</p>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/WQIvhotZSUw"></iframe>
+<br>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<table>
+    <tr>
+        <th style="text-align:center;" colspan="3"> Filmografie als acteur</th>
+
+    </tr>
+    <tr>
+        <td>1947</td>
+        <td>The Shocking Miss Pilgrim</td>
+        <td>komedie</td>
+    </tr>
+    <tr>
+        <td>1948</td>
+        <td> Scudda Hoo! Scudda Hay!</td>
+        <td>romantiek</td>
+    </tr>
+    <tr>
+        <td>1950</td>
+        <td>A Ticket to Tomahawk;</td>
+        <td>Western</td>
+    </tr>
+</table>
