@@ -1,0 +1,47 @@
+<!--
+* naam: <Dennis Nguyen>
+* groep: 6C
+* datum: 17-2-2018
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untitled</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/-Login-form-Page-BS4-.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<header>
+    <ul>
+        <li><a href="#">Home</a> </li>
+        <li><a href="#">Memory</a> </li>
+        <li><a href="#">Gallerij</a> </li>
+        <li><a href="#">Picturepuzzle</a> </li>
+    </ul>
+</header>
+<body>
+<img src="assets/img/monroe_300x300_1.jpg">
+<img src="assets/img/monroe_300x300_2.jpg">
+     <br>
+
+<p>Marilyn Monroe – Norma Jeane – had een moeilijke jeugd. Haar moeder was Gladys Pearl Mortenson, geboren
+    Monroe,[1] en was eerder gehuwd met John Baker.
+    Norma Jeanes moeder liet zich nog naar hem Gladys Sasha Baker noemen en liet Norma Jeane ook met deze
+    achternaam dopen.
+    Gladys Baker was weliswaar in 1924 getrouwd met Martin E. Mortensen, maar ze leefden al gescheiden
+    voordat Gladys zwanger werd.
+    [2] Mogelijk was Norma Jeanes vader Charles Stanley Gifford.[3] Gifford en Gladys Baker werkten beiden
+    in de snijstudio van RKO Pictures,
+    waar Baker Giffords ondergeschikte was. Gladys Baker was drugsverslaafd en liet de opvoeding van Marilyn
+    over aan haar vrienden Albert en Ida Bolender.
+    Toen Baker na een lange tijd met haar dochter in een oud krot ging wonen,
+    kreeg ze een zenuwinzinking waardoor ze helemaal op hol sloeg (volgens ooggetuigen zou ze op het dak
+    geklommen zijn en zo de hele buurt bij elkaar
+    geschreeuwd hebben).</p>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/WQIvhotZSUw"></iframe>
